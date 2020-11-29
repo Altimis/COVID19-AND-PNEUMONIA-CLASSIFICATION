@@ -1,6 +1,6 @@
 # COVID19 AND PNEUMONIA classification
 
-## Porject members 
+## Project members 
 
 * KHANNAFOUR ASMAE
 * AIT JEDDI YASSINE
