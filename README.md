@@ -47,10 +47,10 @@ As the classes are unbalanced, the accuracy wont be the right measure to use for
 
 * **Loss**
 <figure>
-    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/loss.jpeg"  title="Loss function"  width="500" height="500"/>
+    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/loss.png"  title="Loss function"  width="300" height="300"/>
 </figure>  
 
 * **Accuracy**
 <figure>
-    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/accuracy.jpeg"  title="Accuracy"  width="500" height="500"/>
+    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/accuracy.png"  title="Accuracy"  width="300" height="300"/>
 </figure>  
