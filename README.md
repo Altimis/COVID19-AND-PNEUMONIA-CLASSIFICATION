@@ -14,9 +14,9 @@ The data consists of two classes : **'NORMAL'** and **'COVID19 AND PNEUMONIA'**.
 
 Source : [Kaggle competition](https://www.kaggle.com/c/deep-learning-competition-cs-2020) 
 
-## requirements
+## Requirements
 
-Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
+Run **pip install -r requirements.txt** (Python 2), or **pip3 install -r requirements.txt** (Python 3)
 
 ## Usage
 
