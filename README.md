@@ -12,7 +12,7 @@
 The goal of this project is to build deep learning model that can diagnose COVID-19 and Pneumonia cases using chest X-Ray Images.  
 The data consists of two classes : **'NORMAL'** and **'COVID19 AND PNEUMONIA'**. The big challenge of this problem is that the data is unbalanced  (~1300 samples of 'NORMAL' and ~3500 samples of 'COVID19 AND PNEUMONIA')
 
-## Dataset description
+### Dataset description
 The dataset is organized into 2 folders (train and test) and contains subfolders for the train category (COVID-19 and Pneumonia/Normal). There are 5,266 X-Ray training images, 1,341 Normal X-Ray and 3,925 (COVID-19 and Pneumonia) images.
 * **Exemple of COVID19 AND PNEUMONIA image**
 <figure>
