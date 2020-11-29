@@ -36,7 +36,9 @@ The dataset is organized into 2 folders (train and test) and contains subfolders
 <figure>
     <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/covid.jpeg"  title="COVID19 AND PNEUMONIA"  width="500" height="500"/>
 </figure>  
+
 ### Exemple of Normal image
+
 <figure>
     <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/normal.jpeg"  title="Normal"   width="500" height="500"/>
 </figure> 
