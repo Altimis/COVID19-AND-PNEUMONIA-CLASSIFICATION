@@ -3,7 +3,7 @@
 ## About
 
 The goal of this project is to build deep learning model that can diagnose COVID-19 and Pneumonia cases using chest X-Ray Images.  
-The data consists of two classes : 'NORMAL' and 'COVID19 AND PNEUMONIA'. The big challenge of this problem is that data is umbalanced (~1300 samples of 'NORMAL' and ~3500 samples of 'COVID19 AND PNEUMONIA')
+The data consists of two classes : **'NORMAL'** and **'COVID19 AND PNEUMONIA'**. The big challenge of this problem is that data is umbalanced (~1300 samples of 'NORMAL' and ~3500 samples of 'COVID19 AND PNEUMONIA')
 
 Source : [Kaggle competition](https://www.kaggle.com/c/deep-learning-competition-cs-2020) 
 
