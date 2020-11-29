@@ -29,3 +29,10 @@ In this project we first tried to form a simple model with 5 ConvNets and withou
 As the classes are unbalanced, the accuracy wont be the right measure to use for the model performance. Recall, precision and f1 score are good alternatives for evaluating the model performance (testing the model in Kaggle by submitting the results is also a good way). In the first experiment, we obtained 73% recall and 78% precision, which is not good enough (by testing the model on the Kaggle evaluation metric, we obtained 72%).  
   
   by Using oversampling, [MobileNet](https://keras.io/api/applications/mobilenet/) and data augmentation (vertical flip, zoom ...), we could improve the precision and recall to **98%** **97%** (**f1 score = 98% and Kaggle evaluation metric = 93% , 3rd classment**).
+  
+  ## Dataset description
+The dataset is organized into 2 folders (train and test) and contains subfolders for the train category (COVID-19 and Pneumonia/Normal). There are 5,266 X-Ray training images, 1,341 Normal X-Ray and 3,925 (COVID-19 and Pneumonia) images.
+
+  
+![Alt text](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/covid.jpeg?raw=true "COVID19 AND PNEUMONIA")
+![Alt text](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/normal.jpeg?raw=true "Normal")
