@@ -33,6 +33,10 @@ As the classes are unbalanced, the accuracy wont be the right measure to use for
   ## Dataset description
 The dataset is organized into 2 folders (train and test) and contains subfolders for the train category (COVID-19 and Pneumonia/Normal). There are 5,266 X-Ray training images, 1,341 Normal X-Ray and 3,925 (COVID-19 and Pneumonia) images.
 
-  
-![Alt](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/covid.jpeg “COVID19 AND PNEUMONIA”)
-![Alt](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/normal.jpeg “Normal”)
+<figure>
+    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/covid.jpeg"  title="COVID19 AND PNEUMONIA" />
+</figure>  
+<figure>
+    <img src="https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/images/normal.jpeg"  title="Normal" />
+</figure> 
+
