@@ -7,6 +7,10 @@ The data consists of two classes : **'NORMAL'** and **'COVID19 AND PNEUMONIA'**.
 
 Source : [Kaggle competition](https://www.kaggle.com/c/deep-learning-competition-cs-2020) 
 
+## requirements
+
+Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
+
 ## Usage
 
 [Covid19_classification](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/Covid19_classification.ipynb) notebook contains the code used to download, process and use X-ray images to train a MobileNet model initialized with imagenet dataset.  
