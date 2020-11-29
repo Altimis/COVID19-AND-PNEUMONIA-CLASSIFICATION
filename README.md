@@ -10,7 +10,7 @@ Source : [Kaggle competition](https://www.kaggle.com/c/deep-learning-competition
 ## Usage
 
 [Covid19_classification](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/Covid19_classification.ipynb) notebook contains the code used to download, process and use X-ray images to train a MobileNet model initialized with imagenet dataset.  
-If you are in a hurry and want to use the weights of the model I trained, feel free to load [the weights] (https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/best_weights.hdf5) directly onto the model. The guide is described more precisely in the notebook. 
+If you are in a hurry and want to use the weights of the model I trained, feel free to load [the weights](https://github.com/Altimis/COVID19-AND-PNEUMONIA-CLASSIFICATION/blob/master/best_weights.hdf5) directly onto the model. The guide is described more precisely in the notebook. 
 
 ## Results
 
