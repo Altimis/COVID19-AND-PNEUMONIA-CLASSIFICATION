@@ -1,0 +1,8 @@
+pandas==1.0.5
+opencv_python==4.2.0.34
+tensorflow==2.3.1
+matplotlib==3.2.1
+numpy==1.19.4
+Pillow==8.0.1
+scikit_learn==0.23.2
+splitfolders==0.1.1
