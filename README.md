@@ -1,5 +1,12 @@
 # COVID19 AND PNEUMONIA classification
 
+## Porject members 
+
+* KHANNAFOUR ASMAE
+* AIT JEDDI YASSINE
+* EL GHALBZOURI SARA
+* BENGADI SOUFIANE
+* AIT ABDELMALEK YOUSSEF
 ## About
 
 The goal of this project is to build deep learning model that can diagnose COVID-19 and Pneumonia cases using chest X-Ray Images.  
